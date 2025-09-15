@@ -1,0 +1,5 @@
+{
+  "name": "AnyHair",
+  "description": "An elegant web application for a beauty salon to manage appointments. Customers can schedule services, and administrators can manage services, clients, and business hours.",
+  "requestFramePermissions": []
+}
